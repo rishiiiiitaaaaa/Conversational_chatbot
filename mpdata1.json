@@ -1,0 +1,121 @@
+{
+  "intents": [
+    {
+      "tag": "mp_government_portal_info",
+      "patterns": [
+        "What is the Madhya Pradesh Government Portal?",
+        "Provide details about https://mp.gov.in/",
+        "What services does the Madhya Pradesh government website offer?",
+        "Can you explain the purpose of the MP Government Portal?"
+      ],
+      "responses": [
+        "The Madhya Pradesh Government Portal is the official digital gateway of the Government of Madhya Pradesh. Serving over 7.5 crore citizens, it consolidates vital information about government services, schemes, initiatives, and policies in a centralized manner. The portal supports e-governance by providing access to public welfare services, online applications, and the latest government updates. Visit: https://mp.gov.in/ for more details."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "government_schemes",
+      "patterns": [
+        "What schemes are available on the MP Government Portal?",
+        "Can I find details about government schemes on the MP Portal?",
+        "What public welfare programs are listed on https://mp.gov.in/?",
+        "Can you explain the various government schemes for citizens in MP?"
+      ],
+      "responses": [
+        "The portal offers extensive details on a variety of government schemes such as:\n\n1. **Pradhan Mantri Awas Yojana**: Providing affordable housing to 5.5 lakh families in MP.\n2. **Ayushman Bharat**: Health insurance for over 1 crore families.\n3. **Madhya Pradesh State Employment Mission**: Aiming to provide 1 lakh jobs annually.\n4. **Madhya Pradesh Ration Card Scheme**: Over 80 lakh families benefit from subsidized food grains every month.\n5. **Madhya Pradesh Scholarship Programs**: Scholarships for students from economically weaker sections, providing over Rs 300 crore annually."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "citizen_services",
+      "patterns": [
+        "What online services can I access on the MP Government Portal?",
+        "Can I apply for government services online in MP?",
+        "What citizen services are available through https://mp.gov.in/?",
+        "How do I avail public services offered by the MP government?"
+      ],
+      "responses": [
+        "The MP Government Portal provides access to a range of essential citizen services, including:\n\n1. **Online Ration Card Applications**: Facilitating easy access to essential food grains for 80+ lakh families.\n2. **Voter ID Applications**: 18+ citizens can apply for voter ID.\n3. **Driving License and Vehicle Registration**: Digital services for over 25 lakh vehicles in MP.\n4. **Land Record Services**: Over 50 lakh farmers access digital land records online.\n5. **Public Grievance Redressal**: Over 4 lakh complaints are resolved through this system annually."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "notifications",
+      "patterns": [
+        "Where can I find official notifications?",
+        "Does the MP Government Portal provide news updates?",
+        "Can I check government notifications on the portal?",
+        "Are there any updates related to government policies on https://mp.gov.in/?"
+      ],
+      "responses": [
+        "The portal regularly publishes official notifications, including:\n\n1. **Government Policies**: Notifications related to new policies and amendments, with over 100 updates annually.\n2. **Public Health Announcements**: Weekly health advisories impacting over 7 crore citizens.\n3. **Recruitment Notices**: Government job openings, including 15,000+ positions annually.\n4. **Public Welfare Notices**: Information on social welfare schemes reaching over 10 million citizens.\n5. **Educational Initiatives**: Notifications for over 1.5 lakh students related to exams, scholarships, and educational resources."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "feedback_submission",
+      "patterns": [
+        "How can I give feedback about the portal?",
+        "Can I report issues with the services on https://mp.gov.in/?",
+        "Where can I submit suggestions for improving the MP government portal?",
+        "How can I contact the MP government portal support?"
+      ],
+      "responses": [
+        "To submit feedback or report issues, you can use the 'Feedback' section on the portal or contact support via:\n\n1. **Email**: feedback@mp.gov.in\n2. **Phone**: +91-755-2700400\n3. **Online Form**: Accessible via the portal for direct feedback submission.\n\nThe government actively listens to suggestions, resolving over 60% of citizen-submitted concerns within a week."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "employment_opportunities",
+      "patterns": [
+        "Are there any job opportunities listed on the MP Government Portal?",
+        "Where can I find government job openings in Madhya Pradesh?",
+        "Does the portal provide details about recruitment drives in MP?",
+        "How can I apply for government jobs in Madhya Pradesh?"
+      ],
+      "responses": [
+        "The MP Government Portal provides up-to-date information about various job opportunities, including:\n\n1. **Madhya Pradesh Public Service Commission (MPPSC)**: Information on exams and recruitment for over 3,000 positions annually.\n2. **Departmental Recruitment**: Posts in sectors like health, education, and urban development, with over 5,000 positions each year.\n3. **Employment News**: Updates about skill training programs and job fairs reaching over 1 lakh job seekers.\n\nYou can apply online for positions, access eligibility criteria, and track your application status."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "digital_initiatives",
+      "patterns": [
+        "What digital initiatives are supported by the MP Government?",
+        "Does the MP Government Portal have e-governance services?",
+        "How is the Madhya Pradesh government promoting digital literacy?",
+        "Are there any digital welfare programs for citizens in MP?"
+      ],
+      "responses": [
+        "The Madhya Pradesh Government is committed to digital transformation through various initiatives, such as:\n\n1. **MP e-District Service Delivery**: Facilitating online access to 50+ services, impacting over 2 crore citizens.\n2. **Digital Literacy Programs**: Training 1 million citizens in digital skills every year.\n3. **e-Governance Projects**: Implementing state-wide digital platforms like the e-District Portal, aimed at improving administrative efficiency and reducing corruption.\n4. **Online Payments**: Enabling over Rs 100 crore worth of transactions every month for services such as electricity bills, taxes, and school fees."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "government_departments",
+      "patterns": [
+        "What government departments are listed on the MP Portal?",
+        "Can I access information about government departments on the MP website?",
+        "Which state departments are listed on the Madhya Pradesh Government Portal?",
+        "Where can I find information about the Department of Agriculture, Education, and Health in MP?"
+      ],
+      "responses": [
+        "The MP Government Portal includes comprehensive information about key departments, such as:\n\n1. **Agriculture**: Over 5 lakh farmers benefit from agricultural subsidies and support services.\n2. **Health**: Providing healthcare services to over 7 crore citizens, with initiatives like Ayushman Bharat.\n3. **Education**: Managing over 1.1 lakh schools and providing resources for 1 crore students.\n4. **Urban Development**: Including smart city projects impacting 5 cities with over 50 lakh residents.\n5. **Rural Development**: Focusing on infrastructure and employment programs benefiting 4 crore rural citizens."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "state_projects",
+      "patterns": [
+        "What major projects are being implemented in Madhya Pradesh?",
+        "Can I learn about state development projects on the MP Government Portal?",
+        "Does the portal provide updates on infrastructure projects in MP?",
+        "What initiatives is the MP Government working on currently?"
+      ],
+      "responses": [
+        "The MP Government is involved in various high-impact projects such as:\n\n1. **Madhya Pradesh Expressway Development**: Connecting 6 major cities, benefiting 3 crore commuters annually.\n2. **Smart City Project**: Transforming 5 cities with an investment of Rs. 15,000 crore.\n3. **Clean Water for All**: Providing access to clean drinking water for 8 million citizens under the 'Nal Jal Yojana'.\n4. **Madhya Pradesh Solar Energy Mission**: Aiming for 5,000 MW of solar power by 2025.\n5. **Atal Bihari Vajpayee Institute of Good Governance**: Promoting good governance practices across all departments."
+      ],
+      "context": [""]
+    }
+  ]
+}
